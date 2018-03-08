@@ -1,0 +1,18 @@
+Olá vamos configurar um Repositório e enviar arquivos.
+1¦ Escolher o local no seu computador, Exemplo: c:\xampp\htdocs.
+
+por que escolhi esse diretório? Resposta: é onde roda minhas 
+aplicações WEB em PHP, então tudo que for colocado nesse diretório
+será enviado para o repositório garantindo a segurança da versão.
+
+Vamos aos comandos!
+
+para criar uma pasta no sublime, use:
+MKDIR nomedapasta
+
+para entrar na pasta use:
+cd nomedapasta
+
+para add um arquivo use:
+
+

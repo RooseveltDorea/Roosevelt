@@ -8,4 +8,5 @@ echo " <color='DFDFDF'> Eu sou o usuário (request) uma solicitação para o ser
 echo "<b><font color='#FF0000'> Status </font></b><br/>";
 Echo "Mais uma linha Add <br/>";
 echo "Outra linha para teste de Diff";
+echo " Só eu sei, as esquinas por que passei";
 ?>
